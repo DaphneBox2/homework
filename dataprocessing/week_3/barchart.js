@@ -1,3 +1,6 @@
+// Daphne Box
+// 10455701
+
 // import {d3} from "d3";
 
 // most of the ideas for the bar graph come from https://bost.ocks.org/mike/bar/
